@@ -1,6 +1,6 @@
 ## Headless Blog
 
-Blog app build with Next.js and Strapi
+Blog app build with Next.js, Sass and Strapi
 
 https://nextjs.org/
 
